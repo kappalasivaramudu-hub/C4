@@ -1,4 +1,4 @@
-# C4
+
 Smaller grater<.h>
 int main()
 int a,b,c,results;
